@@ -24,10 +24,10 @@ assets:
   - {seq: 4, filename: KR3a0034_004-WYG.yaml, hash: 'sha256:71f0446b3666f817f95f01820088a09a8ad149468e36f82db2794f8a889538a7'}
   - {seq: 5, filename: KR3a0034_005-WYG.yaml, hash: 'sha256:0ce17fb6377b07bf7864d21fe1a9349d8a14845e9bbcc0de5054acc537ba69fa'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0034_000-WYG.markers.yaml, hash: 'sha256:7044876322b2c21f8478620a53ce1ab99af5a1974c45161752504bf09f1e58c5'}
-  - {seq: 1, role: markers, filename: assets/KR3a0034_001-WYG.markers.yaml, hash: 'sha256:906c59884cbe1a8da75508c52f8402c4db07a67a8b6844f22f065c5cdfd828b2'}
-  - {seq: 2, role: markers, filename: assets/KR3a0034_002-WYG.markers.yaml, hash: 'sha256:bd5b11165b76b7292410df781b58c740957a1c9765bffe85cbe65f7e2683c2ab'}
-  - {seq: 3, role: markers, filename: assets/KR3a0034_003-WYG.markers.yaml, hash: 'sha256:4f6bc75302e8be172fe627294d735a2865172d6719e1b24bd4277a7962419790'}
+  - {seq: 0, role: markers, filename: assets/KR3a0034_000-WYG.markers.yaml, hash: 'sha256:ad0d1181810a399200b7690050f4e664121954bbdb671fa46fca3a0f8da0f8eb'}
+  - {seq: 1, role: markers, filename: assets/KR3a0034_001-WYG.markers.yaml, hash: 'sha256:5d0c17ba07dbf92a9420fefc1b62345172a8c5e8da3f1be26c13011da5049b4a'}
+  - {seq: 2, role: markers, filename: assets/KR3a0034_002-WYG.markers.yaml, hash: 'sha256:38a78a7ac10c1245a38641a8ce0531d0a193db7d3be68536b5757dd60ad1d9bb'}
+  - {seq: 3, role: markers, filename: assets/KR3a0034_003-WYG.markers.yaml, hash: 'sha256:4a22e115de323a57a1f806c1eb51d960fad7f8808768d4a82e34d02cab24ac85'}
   - {seq: 4, role: markers, filename: assets/KR3a0034_004-WYG.markers.yaml, hash: 'sha256:a1fc096a42947c2e54b2d079594ec478fa53565e6aaf234aa72751047f68fac4'}
   - {seq: 5, role: markers, filename: assets/KR3a0034_005-WYG.markers.yaml, hash: 'sha256:28edd55d04063509449829d12af712a1265568063d43e0413de1b1973d301200'}
 table_of_contents:
@@ -91,4 +91,4 @@ table_of_contents:
   label: 原跋
   type: section
   level: 1
-hash: sha256:773e4390722b85b7be10d15140290f8c7151bb907a82a9aad71dfc50a51b21a3
+hash: sha256:cade3cab994d8dbbd8786165cc8a4e96b9bf2d8f85871ea0c0fdea2767b193dc

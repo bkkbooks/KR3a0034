@@ -192,6 +192,7 @@ markers:
   - {type: line-break, offset: 721, content: '', id: KR3a0034_WYG_002-3a07}
   - {type: substitution, offset: 738, original: 貳, replacement: 二, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20151}}
   - {type: punctuation, offset: 740, content: (, id: KR3a0034_krp_002-bkkpn1}
+  - {type: voice, offset: 740, length: 16, name: note, id: n1}
   - {type: punctuation, offset: 742, content: /, id: KR3a0034_krp_002-bkkpn2}
   - {type: punctuation, offset: 744, content: ), id: KR3a0034_krp_002-bkkpn3}
   - {type: 'kr:newline', offset: 744, content: '
@@ -968,6 +969,7 @@ markers:
   - {type: line-break, offset: 3645, content: '', id: KR3a0034_WYG_002-13b04}
   - {type: substitution, offset: 3653, original: 悦, replacement: 悅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20774}}
   - {type: punctuation, offset: 3659, content: (, id: KR3a0034_krp_002-bkkpn7}
+  - {type: voice, offset: 3659, length: 11, name: note, id: n2}
   - {type: substitution, offset: 3663, original: 悦, replacement: 悅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20774}}
   - {type: punctuation, offset: 3665, content: /, id: KR3a0034_krp_002-bkkpn8}
   - {type: substitution, offset: 3669, original: 悦, replacement: 悅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20774}}
@@ -1152,4 +1154,4 @@ markers:
 
       ', id: KR3a0034_krp_002-bkkkrnewl269}
   back: []
-hash: sha256:0aafebb25771721dd0ebb84d790e88b378d370d4f5835f1f5d123874d24c7a6a
+hash: sha256:d1c8ce1841fa2264e49cd07d937b54c0229287b9aaf70be22b72da081c1302d2
